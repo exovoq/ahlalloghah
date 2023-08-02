@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap:https://ahlalloghah.com/sitemap.xml
+Sitemap:https://ahlalloghah.com/sitemap_1.xml
